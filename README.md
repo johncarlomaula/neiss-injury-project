@@ -6,6 +6,8 @@
 - Perform data cleaning to prepare the NEISS dataset for analysis
 - Explore the NEISS dataset to see if there is an association between injury and Friday the 13th.
 
+### [View Project](https://github.com/johncarlomaula/neiss-injury-project/blob/main/analysis.ipynb)
+
 ## 
 
 **Project Overview**
