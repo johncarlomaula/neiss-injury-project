@@ -1,6 +1,6 @@
 # Analyzing the NEISS Dataset
 
-**Project Description:** In this project, I explore the National Electronic Injury Surveillance System (NEISS) dataset to see if there are more injuries is associated with Friday the 13th compared to other days. To see a summary write-up of the project, check out my blog [here](https://johncarlomaula.github.io/project6_injury).
+**Project Description:** In this project, I explore the National Electronic Injury Surveillance System (NEISS) dataset to see if there are more injuries is associated with Friday the 13th compared to other days.
 
 **Main Goals:**
 - Perform data cleaning to prepare the NEISS dataset for analysis
